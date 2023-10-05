@@ -1,5 +1,5 @@
-# html-starter
+# Social Network Botik
 
-Started template for site layout
+Social network on Bootstrap
 
 ### Author: Dmitry Shimansky
